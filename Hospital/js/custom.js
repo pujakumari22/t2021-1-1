@@ -3,7 +3,6 @@ jQuery(document).ready(function () {
 
     $('#carouselHacked').carousel();
 
-    //this code is for the gmap
     var map = new GMaps({
         el: '#map',
         lat: -12.043333,
